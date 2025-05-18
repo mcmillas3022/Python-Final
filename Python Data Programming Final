@@ -1,0 +1,29 @@
+# Python Data Programming Final Project
+
+This repository contains my final project for the Python Data Programming course. The project demonstrates the use of Python for data handling, cleaning, analysis, and visualization.
+
+## 🧠 Project Overview
+The project focuses on [briefly describe your topic — e.g., analyzing survey data, processing CSV files, visualizing trends, etc.].
+
+## 🔧 Tools & Libraries Used
+- Python 3.x
+- Pandas
+- Matplotlib / Seaborn
+- NumPy
+- Jupyter Notebook
+
+## 📁 Project Contents
+- `main.py` / `final_project.ipynb` — main script or notebook
+- `data.csv` — source dataset used
+- Any visualizations or output screenshots (optional)
+
+## ✅ Key Skills Demonstrated
+- Data importing and cleaning
+- Descriptive statistics
+- Data visualization
+- File handling and logic structures
+
+---
+
+**Author:** Shiela McMillan  
+**Course:** Python Data Programming  
